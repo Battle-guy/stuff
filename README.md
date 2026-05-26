@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @krisbattle
-- 👀 I’m interested in real estate
+- 👋 Hi, I’m @battle-guy
+- 👀 I need a job in cybersecurity
 
 
 <!---
