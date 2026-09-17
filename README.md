@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @battle-guy
-- 👀 I need a job in cybersecurity
-
+👋 Hi, I’m @battle-guy
+Don't make it weird
 
 <!---
 krisbattle/krisbattle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
