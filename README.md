@@ -1,4 +1,4 @@
-👋 Hi, I’m @battle-guy
+
 Don't make it weird
 
 <!---
